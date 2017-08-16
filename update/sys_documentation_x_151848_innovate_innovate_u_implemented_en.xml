@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_implemented" label="Idea Implemented" language="en" table="x_151848_innovate_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_implemented</element>
+            <help/>
+            <hint/>
+            <label>Idea Implemented</label>
+            <language>en</language>
+            <name>x_151848_innovate_innovate</name>
+            <plural>Idea Implemented</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-16 02:55:27</sys_created_on>
+            <sys_id>5ff5c666db2003004ca8d001cf961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Idea Implemented</sys_name>
+            <sys_package display_value="Innovate" source="x_151848_innovate">3ba14a22db2003004ca8d001cf9619ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">3ba14a22db2003004ca8d001cf9619ad</sys_scope>
+            <sys_update_name>sys_documentation_x_151848_innovate_innovate_u_implemented_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-16 02:55:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

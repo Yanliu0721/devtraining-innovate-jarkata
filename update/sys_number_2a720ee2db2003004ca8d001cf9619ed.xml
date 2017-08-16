@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_151848_innovate_innovate">x_151848_innovate_innovate</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>INNO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-16 02:40:07</sys_created_on>
+        <sys_id>2a720ee2db2003004ca8d001cf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INNO</sys_name>
+        <sys_package display_value="Innovate" source="x_151848_innovate">3ba14a22db2003004ca8d001cf9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">3ba14a22db2003004ca8d001cf9619ad</sys_scope>
+        <sys_update_name>sys_number_2a720ee2db2003004ca8d001cf9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-16 02:40:07</sys_updated_on>
+    </sys_number>
+</record_update>
